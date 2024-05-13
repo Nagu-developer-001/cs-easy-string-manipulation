@@ -1,0 +1,23 @@
+{
+  "name": "cs-easy-string-manipulation",
+  "version": "1.0.0",
+  "description": "An  npm package to manipulate string using basic string methods",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagu-developer-001/cs-easy-string-manipulation.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Nagabhushana N Kunkipal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Nagu-developer-001/cs-easy-string-manipulation/issues"
+  },
+  "homepage": "https://github.com/Nagu-developer-001/cs-easy-string-manipulation#readme"
+}
