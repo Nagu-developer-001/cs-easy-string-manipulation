@@ -27,7 +27,7 @@ export function StringManipulation(CheckString,MethodString){
             newstr = CheckString.replace(CheckString,resultstr);
         }
         return newstr;
-    }
+    }// this is for slice method
     else if(MethodString == "slice"){
         let randomnum1 = Math.floor(Math.random() * CheckString.length - CheckString.length);
         let randomnum2 = Math.floor(Math.random() * CheckString.length);
