@@ -1,9 +1,9 @@
 {
   "name": "cs-easy-string-manipulation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An  npm package to manipulate string using basic string methods",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "npm run test"
   },
