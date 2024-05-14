@@ -36,7 +36,7 @@ export function StringManipulation(CheckString,MethodString){
             console.log("Please reEvaluate function!");
         }
         return copystr;
-    }
+    }//this is repeat method
     else if(MethodString == "repeat"){
         let rannum = Math.floor(Math.random () * CheckString.length)+1;
         let repstr = CheckString.repeat(rannum);
